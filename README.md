@@ -1,6 +1,5 @@
 # email-risk-analyzer
 Python-based email scanner to detect suspicious email patterns and phishing indicators.
-## README for `email-risk-analyzer`
 
 ## Overview
 This project analyzes email content and detects suspicious or potentially harmful messages.
